@@ -1,8 +1,8 @@
 <h1>Practical Exam - osTicket Implementation using Microsoft Azure</h1>
 This is a tutorial of the full implementation and use-case examples of the open-source help desk ticketing system osTicket.<br />
-<p align="center"><img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/></p>
-
 This is broken down into 3 distinct parts. Please follow the list of instructions as they appear here.
+
+<p align="center"><img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/></p>
 
 <h2>osTicket Instructions</h2>
 
