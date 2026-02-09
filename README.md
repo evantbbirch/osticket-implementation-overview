@@ -1,1 +1,11 @@
-# practical-exam-landing-page
+<h1>Practical Exam - osTicket Implementation using Microsoft Azure</h1>
+This is a tutorial of the full implementation and use-case examples of the open-source help desk ticketing system osTicket.<br />
+
+This is broken down into 3 distinct parts. Please follow the list of instructions as they appear here.
+
+<h2>👨‍💻 Information Technology Project(s):</h2>
+
+- <b>osTicket (Help Desk Ticketing System) implementation using Microsoft Azure environment</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/evantbbirch/osticket-prereqs-and-install)
+  - [osTicket: Post-Installation Configuration](https://github.com/evantbbirch/osticket-postinstall-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/evantbbirch/osticket-ticket-lifecycle)
