@@ -3,7 +3,7 @@ This is a tutorial of the full implementation and use-case examples of the open-
 
 This is broken down into 3 distinct parts. Please follow the list of instructions as they appear here.
 
-- <h2><b>osTicket (Help Desk Ticketing System) implementation using Microsoft Azure environment</b></h2>
+<h2><b>osTicket (Help Desk Ticketing System) implementation using Microsoft Azure environment</b></h2>
   - [osTicket: Prerequisites and Installation](https://github.com/evantbbirch/osticket-prereqs-and-install)
   - [osTicket: Post-Installation Configuration](https://github.com/evantbbirch/osticket-postinstall-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/evantbbirch/osticket-ticket-lifecycle)
