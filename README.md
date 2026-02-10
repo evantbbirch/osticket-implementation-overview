@@ -3,7 +3,7 @@
 This is a tutorial of the full implementation and use-case examples of the open-source help desk ticketing system, <b>osTicket</b>.<br>
 This is broken down into 3 distinct parts. Please follow the list of instructions as they appear here.
 -->
-This is a tutorial of the installation of the open-source help desk ticketing system, <b>osTicket</b> in a cloud environment.<br>
+This is a tutorial of the installation of the open-source help desk ticketing system, <b>osTicket</b>, in a cloud environment.<br>
 <br><p align="center"><img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/></p>
 
 <h2>osTicket Instructions</h2>
