@@ -7,5 +7,7 @@ This is broken down into 3 distinct parts. Please follow the list of instruction
 <h2>osTicket Instructions</h2>
 
   - [osTicket: Prerequisites and Installation](https://github.com/evantbbirch/osticket-prereqs-and-install)
+<!--
   - [osTicket: Post-Installation Configuration](https://github.com/evantbbirch/osticket-postinstall-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/evantbbirch/osticket-ticket-lifecycle)
+-->
